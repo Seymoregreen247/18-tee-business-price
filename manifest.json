@@ -1,0 +1,26 @@
+{
+  "name": "Click & Print 24-7 Custom Apparel",
+  "short_name": "CP247",
+  "description": "Custom apparel ordering — DTF printing, 6-piece minimum, fast turnaround in Roslindale, Boston.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#4BBB2A",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["shopping", "business"],
+  "lang": "en-US"
+}
